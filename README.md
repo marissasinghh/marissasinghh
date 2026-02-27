@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Marissa.<br><br>I’m a physics-trained ML engineer obsessed with turning messy, real-world data into structured, reliable systems. I build end-to-end machine learning pipelines, design creative feature engineering strategies, and iterate aggressively until models are both performant and stable. <br><br>My background blends quantum research, algorithm development, backend systems, and multimodal ML projects. I’ve rebuilt legacy research code, engineered gradient-based optimization systems, developed production-style ML workflows, and pushed predictive models to high R² performance through deliberate hypothesis design and rapid experimentation.<br><br>Currently building multimodal ML systems, scalable data workflows, and projects that sit at the intersection of modeling, infrastructure, and impact.<br><br>If it involves complexity, structure, and meaningful application — I’m in.
+👋 Hi, I’m Marissa.<br><br>Physics backbone. ML systems builder.<br><br>I turn messy data into optimized, reproducible pipelines — from raw acquisition to model evaluation. I care about rigor, structure, and performance.<br><br>Currently building multimodal ML systems, scalable data workflows, and projects that sit at the intersection of modeling, infrastructure, and impact.<br><br>Complex problems only.
 
 
 ## 🌐 Socials:
