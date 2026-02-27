@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Marissa.<br><br>Physics backbone. ML systems builder.<br><br>I turn messy data into optimized, reproducible pipelines — from raw acquisition to model evaluation. I care about rigor, structure, and performance.<br><br>Currently building multimodal ML systems, scalable data workflows, and projects that sit at the intersection of modeling, infrastructure, and impact.<br><br>Complex problems only.
+👋 Hi, I’m Marissa.<br><br>Physics backbone. ML systems builder.<br><br>I turn messy data into optimized, reproducible pipelines — from raw acquisition to model evaluation. I care about rigor, structure, and performance.<br><br>Currently building multimodal ML systems, scalable data workflows, and projects that sit at the intersection of modeling, infrastructure, and impact.<br><br>If it's complex -- I'm in.
 
 
 ## 🌐 Socials:
