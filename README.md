@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Marissa.<br><br>Physics → ML systems.<br><br>I've built multimodal models, scalable data pipelines, and end-to-end workflows from raw acquisition to evaluation. .<br><br>Currently building multimodal ML systems, scalable data workflows, and projects that sit at the intersection of modeling, infrastructure, and impact.<br><br>Current Project: QMCB<br><br>I care deeply about what I build. The problems that need both structure and creativity are my favorite kind!.
+👋 Hi, I’m Marissa.<br><br>Physics → ML systems.<br><br>I've built multimodal models, scalable data pipelines, and end-to-end workflows from raw acquisition to evaluation.<br><br>Currently building multimodal ML systems, scalable data workflows, and projects that sit at the intersection of modeling, infrastructure, and impact.<br><br>Current Project: QMCB<br><br>I care deeply about what I build. The problems that need both structure and creativity are my favorite kind!
 
 
 ## 🌐 Socials:
